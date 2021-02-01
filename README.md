@@ -7,8 +7,8 @@ Task description:
 
 3. Write queries to return a corresponding data:
 
-a. Get information about all employees.\
-b. Get all employees with a name ‘David’.
+a. Get information about all employees.  
+b. Get all employees with a name ‘David’.  
 c. Get all employees with job_id equals to ‘IT_PROG’.\
 d. Get all employees from department 50 (department_id) and salary more than 4000.\
 e. Get all employees from department 20 and 30 (department_id).\
@@ -35,9 +35,9 @@ y. Show manager names with >5 subordinates (use the same table twice).\
 z. Show all employees who don’t have manager.\
 aa. Show all employees and their current status ('Currently working'/'Left the company' based on JOB_HISTORY.end_date).\
 bb. Get all employees who live in Region (ie in Europe).\
-cc. Show all departments with > 30 employees (use having count(*)).\
+cc. Show all departments with > 30 employees.\  
 dd. Show all departments that don’t have any employees.\
 ee. Show all employees in format: First_name, Job_title, Department_name.\
 ff. Get employees that have salary more than average in the company.\
 gg. Get all employees whose manager gets salary > 15000.\
-hh. Show all employees that are not managers.\
+hh. Show all employees that are not managers.
